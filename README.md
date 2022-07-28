@@ -2,8 +2,8 @@
 Selenium Framework with Cucumber
 This repository contains a collection of sample selenium-cucumber-java projects and libraries that demonstrate how to use the tool and develop automation script using the Cucumber (v 3.0.0) BDD framework with Java as programming language.
 
-###The framework has following features
--Installation (pre-requisites)
+#The framework has following features
+--Installation (pre-requisites)
 -JDK 1.8+ (make sure Java class path is set)
 -Maven (make sure .m2 class path is set
 -IDE
